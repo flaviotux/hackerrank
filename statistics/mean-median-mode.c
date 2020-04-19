@@ -3,12 +3,12 @@
 #include <math.h>
 #include <stdlib.h>
 
-int main() {
-    int* bubble_sort(int qty, int* arr);
-    void mean(int qty, int* arr);
-    void median(int qty, int* arr);
-    void mode(int qty, int* arr);
+int* bubble_sort(int qty, int* arr);
+void mean(int qty, int* arr);
+void median(int qty, int* arr);
+void mode(int qty, int* arr);
 
+int main() {
     int qty;
     float result[3];
 
