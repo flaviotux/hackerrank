@@ -5,3 +5,6 @@
 ## 10 days of Statistics
 * 0 - Mean, Median and Mode
 * 0 -Weighted Mean
+
+## Data structures trees
+* Height of a binary tree
