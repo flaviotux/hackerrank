@@ -7,6 +7,10 @@
 * 0 -Weighted Mean
 
 ## Data structures
+
 ### Trees
 * Height of a binary tree
 * Level Order Traversal
+
+### Trie
+* Contacts
