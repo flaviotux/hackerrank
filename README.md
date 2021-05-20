@@ -6,5 +6,7 @@
 * 0 - Mean, Median and Mode
 * 0 -Weighted Mean
 
-## Data structures trees
+## Data structures
+### Trees
 * Height of a binary tree
+* Level Order Traversal
